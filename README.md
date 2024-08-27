@@ -10,3 +10,6 @@ computation further verifies our conclusions.
 Bilinear transformation, digital filter design, mapping
 ## figure
 ![image](https://github.com/user-attachments/assets/8df338a8-6964-46a7-bd3a-127cdbd9287f)
+## important date
+Completion date: March 3, 2024
+Upload date: August 27, 2024
