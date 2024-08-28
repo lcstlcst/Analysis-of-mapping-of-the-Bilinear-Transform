@@ -13,4 +13,4 @@ Bilinear transformation, digital filter design, mapping
 <!--![image](https://github.com/user-attachments/assets/8df338a8-6964-46a7-bd3a-127cdbd9287f)-->
 ## Important dates
 Completion date: March 3, 2024.
-Upload date: August 27, 2024.
+Upload date: August 28, 2024.
