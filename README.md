@@ -1,4 +1,6 @@
 # Analysis of the Mapping of Bilinear Transformation in Digital Filter Design
+## Author
+Chao liu (email: liuchao@hdu.edu.cn)
 ## Abstract
 The bilinear transformation is one of the most commonly used methods in IIR digital filter design, which accomplishes the mapping from the s-plane to the z-plane. However, the current understanding of the mapping of the bilinear transformation remains somewhat lacking and the more details need 
 to be revealed. In this paper, we derive some interesting conclusions about the mapping through mathematical analysis: A special line A, parallel to 
